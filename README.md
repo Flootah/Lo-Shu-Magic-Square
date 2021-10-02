@@ -21,6 +21,9 @@ When run, the program will randomly generate new squares, then determine if it i
 
 Example output:
 ```
+attempt 1
+attempt 2
+attempt 3
 ...
 attempt 59827
 attempt 59828
